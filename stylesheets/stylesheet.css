@@ -186,8 +186,13 @@ hr {
   color: #b5e853;
 }
 
-/* Buttons
-*/
+/* Buttons  */
+  #Social {
+    padding: 5px;
+
+     
+  }
+
 
 .btn {
   display: inline-block;
@@ -219,8 +224,9 @@ hr {
 }
 
 .btn-github .icon {
-  opacity: 0.6;
-  background: url("../images/blacktocat.png") 0 0 no-repeat;
+opacity: 0.6;
+background: url("../images/blacktocat.png") 0 0 no-repeat;
+
 }
 
 /* Links
