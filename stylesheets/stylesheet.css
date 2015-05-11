@@ -189,9 +189,22 @@ hr {
 /* Buttons  */
   #Social {
     padding: 5px;
-
-     
+  
   }
+  /*DuckSong */
+  #DuckSong {
+    padding-left: 55px;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    color:#FFFF00;
+    font-size: 20px
+  }
+  /* Music Player */
+  #Bg-Music {
+    margin-bottom: 10px;
+    margin-left: 10px;
+  }
+
 
 
 .btn {
